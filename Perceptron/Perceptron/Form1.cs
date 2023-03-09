@@ -33,6 +33,11 @@ namespace Perceptron
             }
         }
 
+        public double Sigmoid(double x)
+        {
+            return 1 / (1 + Math.Exp(-x));
+        }
+
         public double Activation(double[] inputs)
         {
             GenerateWeights(inputs.Length);
@@ -45,11 +50,6 @@ namespace Perceptron
             sum += bias;
 
             return Sigmoid(sum) > 0 ? 1 : 0;
-        }
-
-        public double Sigmoid(double x)
-        {
-            return 1 / (1 + Math.Exp(-x));
         }
 
         public void Train(double[][] inputs, int[] targets)
@@ -90,17 +90,17 @@ namespace Perceptron
             Train(inputs, targets);
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             int input1 = Convert.ToInt32(textBox1.Text);
             int input2 = Convert.ToInt32(textBox2.Text);
 
             label4.Text = Activation(new double[] {input1, input2}).ToString();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
