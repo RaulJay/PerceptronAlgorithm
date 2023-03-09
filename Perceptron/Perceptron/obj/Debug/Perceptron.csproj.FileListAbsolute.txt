@@ -1,0 +1,11 @@
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\raul jay\Desktop\BSCS\3rd\2nd-Sem\IS\Activity\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
